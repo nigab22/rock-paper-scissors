@@ -1,0 +1,19 @@
+.referee {
+  width: 220px;
+}
+
+.referee > h1 {
+  font-size: 56px;
+  color: white;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.referee > button {
+  width: 220px;
+  height: 48px;
+
+  font-size: 16px;
+  border-radius: 8px;
+  outline: none;
+}

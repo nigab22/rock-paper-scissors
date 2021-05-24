@@ -1,0 +1,25 @@
+.hands {
+  position: relative;
+  width: 476px;
+  height: 430px;
+  display: flex;
+  flex-direction: column;
+  margin: 100px auto 0 auto;
+}
+
+.hands__triangle {
+  margin: 20% 20% 0 20%;
+}
+
+.hands__top {
+  position: absolute;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.hands__bottom {
+  display: flex;
+  justify-content: center;
+  margin-top: -30%;
+}
